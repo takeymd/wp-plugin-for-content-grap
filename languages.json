@@ -1,0 +1,22 @@
+{
+	"en": {
+		"Core Bot Settings": "Core Bot Settings",
+		"Schedule": "Schedule",
+		"hours": "hours",
+		"Language": "Language",
+		"English": "English",
+		"German": "German",
+		"Save Changes": "Save Changes",
+		"Appearance" : "Appearance"
+	},
+	"de": {
+		"Core Bot Settings": "Kern Bot Einstellungen",
+		"Schedule": "Zeitplan",
+		"hours": "Stunden",
+		"Language": "Sprache",
+		"English": "Englisch",
+		"German": "Deutsche",
+		"Save Changes": "Änderungen übernehmen",
+		"Appearance" : "Aussehen"
+	}
+}
